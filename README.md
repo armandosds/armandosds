@@ -6,13 +6,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandosds&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
- <div style="display: inline-block><br><br>
- 
+ <div style="display: inline-block"><br>
  <img align="center" alt="Armando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Armando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Armando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Armando-Pascal" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg">
- 
 </div>
 
 ##
