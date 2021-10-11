@@ -1,5 +1,5 @@
 ## Oi !! Eu sou o Goku !! Digo, Armando Soares... :P !!
-
+![](https://komarev.com/ghpvc/?username=armandosds)
  <div>
   <a href="https://github.com/armandosds">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=armandosds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
