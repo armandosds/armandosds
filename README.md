@@ -7,7 +7,9 @@
 </div>
  
 <div heigth="150em">
+
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=armandosds&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/JKseV)
+ 
  </div>
  
  <div style="display: inline-block"><br>
