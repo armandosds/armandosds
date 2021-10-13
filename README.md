@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandosds&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=armandosds&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=armandosds&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/JKseV)
  
  <div style="display: inline-block"><br>
  <img align="center" alt="Armando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
