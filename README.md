@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandosds&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-<div heigth="150em">
+<div heigth="120em">
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=armandosds&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/JKseV)
  
