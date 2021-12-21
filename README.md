@@ -21,7 +21,8 @@
 <img align="center" alt="Armando-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="center" alt="Armando-GOLANG" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="center" alt="Armando-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img align="center" alt="Armando-RUBY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />    
+<img align="center" alt="Armando-RUBY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+<img align="center" alt="Armando-CSHARP" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-plain.svg" />
 </div>
 
 ##
