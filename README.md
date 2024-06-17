@@ -14,6 +14,8 @@
  <img align="center" alt="Armando-Pascal" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg">
  <img align="center" alt="Armando-Pascal" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  <img align="center" alt="Armando-Git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
+ <img align="center" alt="Armando-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-plain.svg" />
+ <img align="center" alt="Armando-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/rust/rust-plain.svg" />
 </div>
 
 <div style="display: inline-block"><br>
