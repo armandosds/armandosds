@@ -40,3 +40,24 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+##
+
+```js
+import Desenvolvedor from "Armando";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Armando Soares";
+  area = "Desenvolvimento";
+  trabalho = "Onde não precise trabalhar...";
+  local = "Chernarus";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["De Object Pascal à C++, iguais a mim, baixo nível."];
+  bibliotecas = ["Não gosto"];
+  frameworks = ["Não uso"];
+  preferencia = ["Pure and Vanilla"];
+}
+```
+
