@@ -13,6 +13,7 @@
  <img align="center" alt="Armando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Armando-Pascal" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg">
  <img align="center" alt="Armando-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+ <img align="center" alt="Armando-Manjaro" height="30" width="40" src="https://brandeps.com/logo-download/M/Manjaro-logo-vector-01.svg" />
  <img align="center" alt="Armando-Git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
  <img align="center" alt="Armando-CPP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" />
  <img align="center" alt="Armando-Rust" height="30" width="40" src="https://caminhodev.com.br/wp-content/uploads/2025/02/rust.png" />
