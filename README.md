@@ -19,7 +19,7 @@
  <img align="center" alt="Armando-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  <img align="center" alt="Armando-CSHARP" height="40" width="40" src="https://images.icon-icons.com/2415/PNG/512/csharp_plain_logo_icon_146577.png" />
  <img align="center" alt="Armando-GOLANG" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
- <img align="center" alt="Armando-Rust" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/106px-Rust_programming_language_black_logo.svg.png">
+ <img align="center" alt="Armando-Rust" height="40" width="40" src="https://img.icons8.com/?size=100&id=h3j2l8UuNAEt&format=png&color=000000">
  <img align="center" alt="Armando-Python" height="40" width="40" src="https://img.icons8.com/stickers/1200/python.jpg">
 </div>
 
