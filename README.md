@@ -8,7 +8,7 @@
 ## 🛠 Tech Stack
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | 🦀 Rust - 💎 Delphi - 🟣 Kotlin - ⚙️ C++ - 🐹 Go - 🐍 Python |
+| **Languages** | 🦅 Kaz - 🦀 Rust - 💎 Delphi - 🟣 Kotlin - ⚙️ C++ - 🐹 Go - 🐍 Python |
 | **Infra** | 🐧 Linux - 📦 Git |
 
 ## 🔗 Connect With Me
