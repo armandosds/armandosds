@@ -30,18 +30,40 @@
 ##
 
 ```js
-import Developer from "Armando";
 
-class AboutMe extends Developer {
-  name = "Armando Soares";
-  area = "Software Development";
-  work = "neuronal.ia.br";
-  location = "Brazil";
+╔═════════════════════════════════════════════════════════════════╗
+║                       KAZ 🦅 v1.6.0                            ║║
+║              Interactive Environment & Language Shel            ║
+╚═════════════════════════════════════════════════════════════════╝
+
+function Main() {
+
+  struct User {
+      string name;
+      int age;
+      string post;
+      active bool;
+  }
+
+  function display_user(User u) {
+      runoff("--- User Profile ---");
+      runoff("Name: " + u.name);
+      runoff("Age: " + u.age + "years");
+      runoff("Post: " + u.position);
+      runoff("Active: " + u.active);
+  }
+
+  function anniversary(User u): User {
+      u.age += 1;
+      return u;
+  }
+
+  User dev = User {
+      name: "Armando",
+      age: 44,
+      position: "Software Engineer",
+      active: true
+  }
 }
 
-class Skills extends Developer {
-  languages = ["Delphi, C, C++, Rust, Kotlin..."];
-  libraries = ["Serde, Tokio, Axum, Tauri and so on!"];
-  frameworks = ["Warp, Leptos, Slint..."];
-  preference = ["Slint + Rust + Android. I love the chaos."];
-}
+display_user(dev);
